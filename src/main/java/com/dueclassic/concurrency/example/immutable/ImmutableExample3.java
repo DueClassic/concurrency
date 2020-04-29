@@ -1,14 +1,10 @@
-package com.dueclassic.concurrency.immutable;
+package com.dueclassic.concurrency.example.immutable;
 
 import com.dueclassic.concurrency.annoations.ThreadSafe;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Maps;
 import lombok.extern.slf4j.Slf4j;
-
-import java.util.Collections;
-import java.util.Map;
 
 @Slf4j
 @ThreadSafe

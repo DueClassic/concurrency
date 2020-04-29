@@ -1,4 +1,4 @@
-package com.dueclassic.concurrency.immutable;
+package com.dueclassic.concurrency.example.immutable;
 
 import com.google.common.collect.Maps;
 import lombok.extern.slf4j.Slf4j;
